@@ -11,3 +11,16 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+  ruby:
+	title: Programming Ruby
+	description:
+	Ruby is the fastest
+	language out there.
+	delivered fast, you
+	price: 49.50
+	image_url: ruby.png
+	1.9
+	growing and most exciting dynamic
+	If you need to get working programs
+	should add Ruby to your toolbox.
